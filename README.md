@@ -1,6 +1,11 @@
 # Solana-dev-roadmap
 What do you NEED to learn to become a Solana developer? Here's the quick cut.
 
+![c__Users_f0r_s_Desktop_Github_Solana-dev-roadmap_roadmap](https://github.com/AlmostEfficient/Solana-dev-roadmap/assets/42661870/ebbe93a1-8608-423f-9d70-2ca2d011cb96)
+
+## Excalidraw explainer
+Install the [Excalidraw VS code extension](https://marketplace.visualstudio.com/items?itemName=pomdtr.excalidraw-editor) to view the explainer file.
+
 ## General belief/theory/approach
 I'm of the opinion that there is no a linear path to become a developer. You don't **need** to follow this step by step.
 
@@ -10,7 +15,7 @@ This roadmap is **suggestion**, skip ahead or jump around as you see fit.
 
 ### Pathways/types/roads/areas
 
-For ease of understanding, I've split this roadmap into three types/areas. This is **not** like front-end/back-end development, it's the things you'll likely be working on.
+For ease of understanding, I've split this roadmap into three paths. This is **not** like front-end/back-end development, it's the things you'll likely be working on.
 
 The reasoning here is that most folks specialize by topic. If you're working on DeFi or trading front-ends, you probably don't care about NFT compression too much.
 
@@ -52,7 +57,17 @@ No matter what you're doing on Solana, you'll need to know these basics:
 - State management
 - PDAs (Program Derived Addresses)
 - CPIs (Cross Program Invocations)
-- Oracles
 - Anchor
-- Security
 - IDLs
+- Oracles
+- Security
+
+## Stuff you **don't** need to understand
+- Proof of History
+- Solana's consensus mechanism
+- Tower BFT
+- Pipelining
+- Cloudbreak
+- Gulfstream
+- Cryptography
+- Validator management
